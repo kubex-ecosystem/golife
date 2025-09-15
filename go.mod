@@ -11,7 +11,7 @@ require (
 	github.com/pebbe/zmq4 v1.4.0
 	github.com/rafa-mori/logz v1.4.0
 	github.com/spf13/cobra v1.9.1
-	google.golang.org/grpc v1.75.0
+	google.golang.org/grpc v1.75.1
 )
 
 require (
