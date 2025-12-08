@@ -10,7 +10,7 @@ require (
 	github.com/google/uuid v1.6.0
 	github.com/pebbe/zmq4 v1.4.0
 	github.com/rafa-mori/logz v1.4.0
-	github.com/spf13/cobra v1.10.1
+	github.com/spf13/cobra v1.10.2
 	google.golang.org/grpc v1.76.0
 )
 
