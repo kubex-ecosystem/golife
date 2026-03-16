@@ -6,7 +6,7 @@ require (
 	github.com/emersion/go-imap v1.2.1
 	github.com/emersion/go-message v0.18.2
 	github.com/fatih/color v1.18.0
-	github.com/goccy/go-json v0.10.5
+	github.com/goccy/go-json v0.10.6
 	github.com/google/uuid v1.6.0
 	github.com/pebbe/zmq4 v1.4.0
 	github.com/rafa-mori/logz v1.4.0
